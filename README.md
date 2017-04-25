@@ -1,4 +1,7 @@
-# test coverage for  [spoof (v1.2.0)](http://feross.org/spoofmac/)  [![npm package](https://img.shields.io/npm/v/npmtest-spoof.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-spoof) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-spoof.svg)](https://travis-ci.org/npmtest/node-npmtest-spoof)
+# npmtest-spoof
+
+#### basic test coverage for  [spoof (v1.2.0)](http://feross.org/spoofmac/)  [![npm package](https://img.shields.io/npm/v/npmtest-spoof.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-spoof) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-spoof.svg)](https://travis-ci.org/npmtest/node-npmtest-spoof)
+
 #### Easily spoof your MAC address in OS X & Linux
 
 [![NPM](https://nodei.co/npm/spoof.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/spoof)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-spoof/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-spoof/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-spoof/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-spoof/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-spoof/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-spoof/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-spoof/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-spoof/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-spoof/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-spoof/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-spoof/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-spoof/build/coverage.html/index.html)
 

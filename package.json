@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [spoof (v1.2.0)](http://feross.org/spoofmac/) [![npm package](https://img.shields.io/npm/v/npmtest-spoof.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-spoof) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-spoof.svg)](https://travis-ci.org/npmtest/node-npmtest-spoof)",
+    "description": "#### basic test coverage for  [spoof (v1.2.0)](http://feross.org/spoofmac/)  [![npm package](https://img.shields.io/npm/v/npmtest-spoof.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-spoof) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-spoof.svg)](https://travis-ci.org/npmtest/node-npmtest-spoof)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "spoof": "*",
